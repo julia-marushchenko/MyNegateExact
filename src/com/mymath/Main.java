@@ -18,7 +18,7 @@ public class Main {
         int_number = Math.negateExact(-15);
 
         // Printing int_number to console
-        System.out.println(int_number); // Output: -15
+        System.out.println(int_number); // Output: 15
 
         // Negation number 12345L
         long long_number = Math.negateExact(12345L);
